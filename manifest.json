@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-sticky-sessions-mastering-causal-tokens-for-read-your-own-writes",
+    "title": "Beyond Sticky Sessions: Mastering Causal Tokens for Read-Your-Own-Writes",
+    "description": "Learn why 'Session Consistency' is more than just a configuration toggle. We explore the mechanics of causal tokens in Java to prevent stale reads in distributed systems.",
+    "tags": [
+      "Java",
+      "DistributedSystems",
+      "AzureCosmosDB",
+      "ConsistencyModels"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-04-24"
+  },
+  {
     "slug": "beyond-distributed-locks-how-apples-foundationdb-scales-global-consistency",
     "title": "Beyond Distributed Locks: How Apple’s FoundationDB Scales Global Consistency",
     "description": "Stop reaching for distributed locks. Learn how decoupling sequencing from storage allows systems to achieve strict serializability without the performance tax of traditional locking mechanisms.",
