@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "virtual-threads-structured-concurrency",
+    "title": "Virtual Threads Are Not Enough: Why Structured Concurrency Changes How You Reason About Concurrent Code",
+    "description": "Virtual threads solve throughput. Structured concurrency solves correctness. This article explains why the second half of Project Loom matters more for writing concurrent code you can actually reason about.",
+    "tags": ["Concurrency", "Java", "Project Loom", "JDK 21"],
+    "readTime": "14 min",
+    "publishedAt": "2026-04-24"
+  }
+]
