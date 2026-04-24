@@ -1,5 +1,18 @@
 [
   {
+    "slug": "why-your-service-still-crashes-despite-having-timeouts-the-bulkhead-pattern",
+    "title": "Why Your Service Still Crashes Despite Having Timeouts: The Bulkhead Pattern",
+    "description": "Learn why timeouts aren't enough to prevent cascading failures. We explore Netflix's isolation strategies to protect your thread pools from slow downstream dependencies.",
+    "tags": [
+      "Java",
+      "Resilience",
+      "Concurrency",
+      "Backend"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-04-24"
+  },
+  {
     "slug": "beyond-the-table-why-column-families-are-the-secret-to-bigtable-performance",
     "title": "Beyond the Table: Why Column Families are the Secret to Bigtable Performance",
     "description": "Stop treating NoSQL column families like relational columns. Learn how Bigtable's physical storage model dictates your system's latency and how to design schemas for massive scale.",
