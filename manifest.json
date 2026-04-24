@@ -1,9 +1,27 @@
 [
   {
+    "slug": "beyond-distributed-locks-how-apples-foundationdb-scales-global-consistency",
+    "title": "Beyond Distributed Locks: How Apple’s FoundationDB Scales Global Consistency",
+    "description": "Stop reaching for distributed locks. Learn how decoupling sequencing from storage allows systems to achieve strict serializability without the performance tax of traditional locking mechanisms.",
+    "tags": [
+      "Distributed Systems",
+      "Java",
+      "Architecture",
+      "Database Design"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-04-24"
+  },
+  {
     "slug": "virtual-threads-structured-concurrency",
     "title": "Virtual Threads Are Not Enough: Why Structured Concurrency Changes How You Reason About Concurrent Code",
     "description": "Virtual threads solve throughput. Structured concurrency solves correctness. This article explains why the second half of Project Loom matters more for writing concurrent code you can actually reason about.",
-    "tags": ["Concurrency", "Java", "Project Loom", "JDK 21"],
+    "tags": [
+      "Concurrency",
+      "Java",
+      "Project Loom",
+      "JDK 21"
+    ],
     "readTime": "14 min",
     "publishedAt": "2026-04-24"
   }
