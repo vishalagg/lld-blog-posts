@@ -1,5 +1,18 @@
 [
   {
+    "slug": "the-hidden-latency-of-lock-free-rate-limiters-lessons-from-ubers-scale",
+    "title": "The Hidden Latency of Lock-Free Rate Limiters: Lessons from Uber's Scale",
+    "description": "Learn why simple AtomicLong rate limiters fail under high contention and how to design for mechanical sympathy. A deep look at cache line bouncing and the lazy refill pattern.",
+    "tags": [
+      "Java",
+      "Concurrency",
+      "Performance",
+      "Distributed Systems"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-04-25"
+  },
+  {
     "slug": "the-hidden-race-solving-distributed-cache-inconsistency-in-java-systems",
     "title": "The Hidden Race: Solving Distributed Cache Inconsistency in Java Systems",
     "description": "Learn why the standard 'delete-on-write' cache strategy fails in high-traffic Java applications and how to implement versioned invalidation to prevent stale data.",
