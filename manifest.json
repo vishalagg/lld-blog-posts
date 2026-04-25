@@ -1,5 +1,18 @@
 [
   {
+    "slug": "the-hidden-race-solving-distributed-cache-inconsistency-in-java-systems",
+    "title": "The Hidden Race: Solving Distributed Cache Inconsistency in Java Systems",
+    "description": "Learn why the standard 'delete-on-write' cache strategy fails in high-traffic Java applications and how to implement versioned invalidation to prevent stale data.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "Caching",
+      "Performance"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-04-25"
+  },
+  {
     "slug": "why-your-service-still-crashes-despite-having-timeouts-the-bulkhead-pattern",
     "title": "Why Your Service Still Crashes Despite Having Timeouts: The Bulkhead Pattern",
     "description": "Learn why timeouts aren't enough to prevent cascading failures. We explore Netflix's isolation strategies to protect your thread pools from slow downstream dependencies.",
