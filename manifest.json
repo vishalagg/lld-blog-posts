@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-the-heap-mastering-deterministic-memory-with-project-panama",
+    "title": "Beyond the Heap: Mastering Deterministic Memory with Project Panama",
+    "description": "Stop fighting with DirectByteBuffers and JNI. Learn how Project Panama's Arena API provides a safe, deterministic way to manage native memory in high-performance Java systems.",
+    "tags": [
+      "Java",
+      "Project Panama",
+      "Memory Management",
+      "Performance"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-04-26"
+  },
+  {
     "slug": "the-hidden-latency-of-lock-free-rate-limiters-lessons-from-ubers-scale",
     "title": "The Hidden Latency of Lock-Free Rate Limiters: Lessons from Uber's Scale",
     "description": "Learn why simple AtomicLong rate limiters fail under high contention and how to design for mechanical sympathy. A deep look at cache line bouncing and the lazy refill pattern.",
