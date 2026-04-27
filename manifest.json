@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-distributed-locks-building-resilient-counters-with-state-based-crdts",
+    "title": "Beyond Distributed Locks: Building Resilient Counters with State-Based CRDTs",
+    "description": "Learn why distributed locks fail at scale and how to use CRDTs to build highly available, eventually consistent systems in Java. We move past theory into production-ready implementation.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "CRDT",
+      "Backend Architecture"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-04-27"
+  },
+  {
     "slug": "beyond-the-heap-mastering-deterministic-memory-with-project-panama",
     "title": "Beyond the Heap: Mastering Deterministic Memory with Project Panama",
     "description": "Stop fighting with DirectByteBuffers and JNI. Learn how Project Panama's Arena API provides a safe, deterministic way to manage native memory in high-performance Java systems.",
