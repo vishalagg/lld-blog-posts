@@ -1,5 +1,18 @@
 [
   {
+    "slug": "the-locality-group-myth-why-your-column-family-database-is-slower-than-you-think",
+    "title": "The Locality Group Myth: Why Your Column-Family Database Is Slower Than You Think",
+    "description": "Stop treating HBase and Cassandra like relational tables. Learn how Bigtable's locality groups actually manage disk I/O and why your schema design might be killing your cache hit rate.",
+    "tags": [
+      "Bigtable",
+      "NoSQL",
+      "Java",
+      "SystemDesign"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-04-28"
+  },
+  {
     "slug": "beyond-distributed-locks-building-resilient-counters-with-state-based-crdts",
     "title": "Beyond Distributed Locks: Building Resilient Counters with State-Based CRDTs",
     "description": "Learn why distributed locks fail at scale and how to use CRDTs to build highly available, eventually consistent systems in Java. We move past theory into production-ready implementation.",
