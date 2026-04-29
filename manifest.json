@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-wall-clocks-mastering-causality-with-vector-clocks-in-distributed-systems",
+    "title": "Beyond Wall Clocks: Mastering Causality with Vector Clocks in Distributed Systems",
+    "description": "Learn why timestamps fail in distributed systems and how to use vector clocks for conflict resolution, inspired by the 2007 Amazon Dynamo paper.",
+    "tags": [
+      "Distributed Systems",
+      "Java",
+      "Backend",
+      "Architecture"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-04-29"
+  },
+  {
     "slug": "the-locality-group-myth-why-your-column-family-database-is-slower-than-you-think",
     "title": "The Locality Group Myth: Why Your Column-Family Database Is Slower Than You Think",
     "description": "Stop treating HBase and Cassandra like relational tables. Learn how Bigtable's locality groups actually manage disk I/O and why your schema design might be killing your cache hit rate.",
