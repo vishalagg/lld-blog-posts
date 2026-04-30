@@ -1,5 +1,18 @@
 [
   {
+    "slug": "why-your-disk-is-screaming-solving-the-small-file-problem-with-haystack-indexing",
+    "title": "Why Your Disk is Screaming: Solving the Small File Problem with Haystack Indexing",
+    "description": "Learn why traditional filesystems fail at scale for small blobs and how to implement Facebook's Haystack indexing strategy in Java to eliminate metadata I/O bottlenecks.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "Storage",
+      "Performance"
+    ],
+    "readTime": "9 min",
+    "publishedAt": "2026-04-30"
+  },
+  {
     "slug": "beyond-wall-clocks-mastering-causality-with-vector-clocks-in-distributed-systems",
     "title": "Beyond Wall Clocks: Mastering Causality with Vector Clocks in Distributed Systems",
     "description": "Learn why timestamps fail in distributed systems and how to use vector clocks for conflict resolution, inspired by the 2007 Amazon Dynamo paper.",
