@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-redis-incr-scaling-distributed-rate-limiters-with-predictive-quotas",
+    "title": "Beyond Redis INCR: Scaling Distributed Rate Limiters with Predictive Quotas",
+    "description": "Stop treating rate limiting as a simple counter. Learn how to implement high-throughput, distributed rate limiting using the batching and prefetching patterns used at Uber.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "Architecture",
+      "Performance"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-01"
+  },
+  {
     "slug": "why-your-disk-is-screaming-solving-the-small-file-problem-with-haystack-indexing",
     "title": "Why Your Disk is Screaming: Solving the Small File Problem with Haystack Indexing",
     "description": "Learn why traditional filesystems fail at scale for small blobs and how to implement Facebook's Haystack indexing strategy in Java to eliminate metadata I/O bottlenecks.",
