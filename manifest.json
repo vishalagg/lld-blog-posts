@@ -1,5 +1,18 @@
 [
   {
+    "slug": "why-immutable-storage-isnt-free-solving-the-metadata-lifecycle-problem",
+    "title": "Why Immutable Storage Isn't Free: Solving the Metadata Lifecycle Problem",
+    "description": "Learn how to manage high-scale immutable storage without drowning in metadata. We explore the volume-packing and garbage collection strategies used in Dropbox's Magic Pocket.",
+    "tags": [
+      "Distributed Systems",
+      "Java",
+      "Storage",
+      "Architecture"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-02"
+  },
+  {
     "slug": "beyond-redis-incr-scaling-distributed-rate-limiters-with-predictive-quotas",
     "title": "Beyond Redis INCR: Scaling Distributed Rate Limiters with Predictive Quotas",
     "description": "Stop treating rate limiting as a simple counter. Learn how to implement high-throughput, distributed rate limiting using the batching and prefetching patterns used at Uber.",
