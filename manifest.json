@@ -1,5 +1,18 @@
 [
   {
+    "slug": "stop-fighting-the-filesystem-why-your-java-backend-needs-a-haystack-style-index",
+    "title": "Stop Fighting the Filesystem: Why Your Java Backend Needs a Haystack-Style Index",
+    "description": "Learn why standard filesystems fail at scale for small objects and how to implement high-performance blob storage using the Haystack approach with Java's FileChannel.",
+    "tags": [
+      "Java",
+      "DistributedSystems",
+      "Performance",
+      "Storage"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-03"
+  },
+  {
     "slug": "why-immutable-storage-isnt-free-solving-the-metadata-lifecycle-problem",
     "title": "Why Immutable Storage Isn't Free: Solving the Metadata Lifecycle Problem",
     "description": "Learn how to manage high-scale immutable storage without drowning in metadata. We explore the volume-packing and garbage collection strategies used in Dropbox's Magic Pocket.",
