@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-timeouts-why-thread-pool-isolation-is-your-only-real-defense-against-casc",
+    "title": "Beyond Timeouts: Why Thread Pool Isolation is Your Only Real Defense Against Cascading Failures",
+    "description": "Stop relying on simple timeouts to save your microservices. Learn how to apply the Bulkhead pattern using Java's ExecutorService to prevent a single slow dependency from crashing your entire system.",
+    "tags": [
+      "Java",
+      "Microservices",
+      "Resilience",
+      "Concurrency"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-04"
+  },
+  {
     "slug": "stop-fighting-the-filesystem-why-your-java-backend-needs-a-haystack-style-index",
     "title": "Stop Fighting the Filesystem: Why Your Java Backend Needs a Haystack-Style Index",
     "description": "Learn why standard filesystems fail at scale for small objects and how to implement high-performance blob storage using the Haystack approach with Java's FileChannel.",
