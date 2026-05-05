@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-strong-vs-eventual-mastering-session-tokens-in-distributed-databases",
+    "title": "Beyond Strong vs. Eventual: Mastering Session Tokens in Distributed Databases",
+    "description": "Stop treating consistency as a binary choice. Learn why session tokens are the secret to preventing stale data bugs in stateless Java microservices without sacrificing performance.",
+    "tags": [
+      "Distributed Systems",
+      "Java",
+      "Azure Cosmos DB",
+      "Architecture"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-05"
+  },
+  {
     "slug": "beyond-timeouts-why-thread-pool-isolation-is-your-only-real-defense-against-casc",
     "title": "Beyond Timeouts: Why Thread Pool Isolation is Your Only Real Defense Against Cascading Failures",
     "description": "Stop relying on simple timeouts to save your microservices. Learn how to apply the Bulkhead pattern using Java's ExecutorService to prevent a single slow dependency from crashing your entire system.",
