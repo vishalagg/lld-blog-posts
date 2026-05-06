@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-the-heap-mastering-deterministic-memory-with-project-panama-20260506",
+    "title": "Beyond the Heap: Mastering Deterministic Memory with Project Panama",
+    "description": "Learn how to manage off-heap memory with safety and speed. We explore why Project Panama's Arena API replaces the dangerous patterns of the past with a structured, high-performance approach.",
+    "tags": [
+      "Java",
+      "Performance",
+      "LowLatency",
+      "ProjectPanama"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-06"
+  },
+  {
     "slug": "beyond-strong-vs-eventual-mastering-session-tokens-in-distributed-databases",
     "title": "Beyond Strong vs. Eventual: Mastering Session Tokens in Distributed Databases",
     "description": "Stop treating consistency as a binary choice. Learn why session tokens are the secret to preventing stale data bugs in stateless Java microservices without sacrificing performance.",
