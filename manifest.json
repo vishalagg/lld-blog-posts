@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-the-header-why-your-idempotency-strategy-fails-under-load",
+    "title": "Beyond the Header: Why Your Idempotency Strategy Fails Under Load",
+    "description": "Learn why idempotency is a distributed locking problem, not a caching one. We explore the state machine required to prevent double-charging and handle orphaned requests.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "Idempotency",
+      "Backend Architecture"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-07"
+  },
+  {
     "slug": "beyond-the-heap-mastering-deterministic-memory-with-project-panama-20260506",
     "title": "Beyond the Heap: Mastering Deterministic Memory with Project Panama",
     "description": "Learn how to manage off-heap memory with safety and speed. We explore why Project Panama's Arena API replaces the dangerous patterns of the past with a structured, high-performance approach.",
