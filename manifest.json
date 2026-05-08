@@ -1,5 +1,18 @@
 [
   {
+    "slug": "why-structured-concurrency-matters-more-than-virtual-threads",
+    "title": "Why Structured Concurrency Matters More Than Virtual Threads",
+    "description": "Virtual threads give you throughput, but JEP 453 gives you correctness. Learn how to eliminate thread leaks and silent failures by moving beyond the ExecutorService.",
+    "tags": [
+      "Java",
+      "Concurrency",
+      "Backend",
+      "Performance"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-08"
+  },
+  {
     "slug": "beyond-the-header-why-your-idempotency-strategy-fails-under-load",
     "title": "Beyond the Header: Why Your Idempotency Strategy Fails Under Load",
     "description": "Learn why idempotency is a distributed locking problem, not a caching one. We explore the state machine required to prevent double-charging and handle orphaned requests.",
