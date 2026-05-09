@@ -1,5 +1,18 @@
 [
   {
+    "slug": "closing-the-loop-why-exhaustive-domain-models-beat-open-inheritance",
+    "title": "Closing the Loop: Why Exhaustive Domain Models Beat Open Inheritance",
+    "description": "Stop fighting IllegalStateException in your switch statements. Learn how JEP 409 lets you use the Java compiler as a logic validator through sealed classes and totality.",
+    "tags": [
+      "Java",
+      "Backend",
+      "Architecture",
+      "DDD"
+    ],
+    "readTime": "10 min",
+    "publishedAt": "2026-05-09"
+  },
+  {
     "slug": "why-structured-concurrency-matters-more-than-virtual-threads",
     "title": "Why Structured Concurrency Matters More Than Virtual Threads",
     "description": "Virtual threads give you throughput, but JEP 453 gives you correctness. Learn how to eliminate thread leaks and silent failures by moving beyond the ExecutorService.",
