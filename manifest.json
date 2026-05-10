@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-strong-consistency-why-bounded-staleness-is-the-senior-engineers-secret-f",
+    "title": "Beyond Strong Consistency: Why Bounded Staleness is the Senior Engineer's Secret for Global Scale",
+    "description": "Stop overpaying for Strong Consistency. Learn how to manage the 'staleness window' in Java to keep your global systems fast without sacrificing data integrity.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "CosmosDB",
+      "Backend Architecture"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-10"
+  },
+  {
     "slug": "closing-the-loop-why-exhaustive-domain-models-beat-open-inheritance",
     "title": "Closing the Loop: Why Exhaustive Domain Models Beat Open Inheritance",
     "description": "Stop fighting IllegalStateException in your switch statements. Learn how JEP 409 lets you use the Java compiler as a logic validator through sealed classes and totality.",
