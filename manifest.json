@@ -1,5 +1,18 @@
 [
   {
+    "slug": "the-commit-wait-why-distributed-transactions-must-embrace-uncertainty",
+    "title": "The Commit Wait: Why Distributed Transactions Must Embrace Uncertainty",
+    "description": "Learn how Google Spanner uses the TrueTime API to solve the clock skew problem. We explore the 'Commit Wait' mechanism and why time must be treated as an interval rather than a point.",
+    "tags": [
+      "Distributed Systems",
+      "Java",
+      "Database Design",
+      "Spanner"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-11"
+  },
+  {
     "slug": "beyond-strong-consistency-why-bounded-staleness-is-the-senior-engineers-secret-f",
     "title": "Beyond Strong Consistency: Why Bounded Staleness is the Senior Engineer's Secret for Global Scale",
     "description": "Stop overpaying for Strong Consistency. Learn how to manage the 'staleness window' in Java to keep your global systems fast without sacrificing data integrity.",
