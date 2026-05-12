@@ -1,5 +1,18 @@
 [
   {
+    "slug": "escaping-the-update-in-place-trap-lessons-from-dropbox-magic-pocket",
+    "title": "Escaping the Update-in-Place Trap: Lessons from Dropbox Magic Pocket",
+    "description": "Stop fighting disk latency with random updates. Learn how to implement append-only immutable storage in Java to achieve predictable high-throughput systems.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "Storage",
+      "Performance"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-12"
+  },
+  {
     "slug": "the-commit-wait-why-distributed-transactions-must-embrace-uncertainty",
     "title": "The Commit Wait: Why Distributed Transactions Must Embrace Uncertainty",
     "description": "Learn how Google Spanner uses the TrueTime API to solve the clock skew problem. We explore the 'Commit Wait' mechanism and why time must be treated as an interval rather than a point.",
