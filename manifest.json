@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-redis-counters-building-high-throughput-rate-limiters-with-local-quota-sh",
+    "title": "Beyond Redis Counters: Building High-Throughput Rate Limiters with Local Quota Sharding",
+    "description": "Stop treating rate limiters as global locks. Learn how to implement local-first quota management in Java to eliminate network bottlenecks and improve system resilience.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "Concurrency",
+      "Rate Limiting"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-13"
+  },
+  {
     "slug": "escaping-the-update-in-place-trap-lessons-from-dropbox-magic-pocket",
     "title": "Escaping the Update-in-Place Trap: Lessons from Dropbox Magic Pocket",
     "description": "Stop fighting disk latency with random updates. Learn how to implement append-only immutable storage in Java to achieve predictable high-throughput systems.",
