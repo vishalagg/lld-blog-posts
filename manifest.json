@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-consistent-hashing-why-your-distributed-state-needs-a-controller",
+    "title": "Beyond Consistent Hashing: Why Your Distributed State Needs a Controller",
+    "description": "Learn why consistent hashing fails in stateful systems and how to implement a controller-based partition strategy like LinkedIn’s Espresso to prevent rebalancing storms.",
+    "tags": [
+      "Distributed Systems",
+      "Java",
+      "Backend Architecture",
+      "Database Internals"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-15"
+  },
+  {
     "slug": "beyond-heap-size-why-your-gc-pacing-is-the-real-latency-killer",
     "title": "Beyond Heap Size: Why Your GC Pacing is the Real Latency Killer",
     "description": "Learn why the rate of allocation matters more than total memory. We explore the engineering behind Discord's famous GC struggle and how to apply those lessons to modern Java systems.",
