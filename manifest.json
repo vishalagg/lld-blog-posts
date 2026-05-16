@@ -1,5 +1,18 @@
 [
   {
+    "slug": "mechanical-sympathy-why-your-high-throughput-java-systems-should-stop-fighting-t",
+    "title": "Mechanical Sympathy: Why Your High-Throughput Java Systems Should Stop Fighting the Disk",
+    "description": "Learn why the append-only log outperforms complex memory indexes. We explore the architectural shift at LinkedIn that led to Kafka and how to leverage zero-copy in Java.",
+    "tags": [
+      "Java",
+      "Performance",
+      "Kafka",
+      "Distributed Systems"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-16"
+  },
+  {
     "slug": "beyond-consistent-hashing-why-your-distributed-state-needs-a-controller",
     "title": "Beyond Consistent Hashing: Why Your Distributed State Needs a Controller",
     "description": "Learn why consistent hashing fails in stateful systems and how to implement a controller-based partition strategy like LinkedIn’s Espresso to prevent rebalancing storms.",
