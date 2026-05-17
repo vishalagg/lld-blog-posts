@@ -1,5 +1,18 @@
 [
   {
+    "slug": "solving-the-new-enemy-problem-causal-consistency-in-distributed-authorization",
+    "title": "Solving the 'New Enemy' Problem: Causal Consistency in Distributed Authorization",
+    "description": "Learn how to prevent security leaks caused by replication lag using Zanzibar's consistency markers. A deep dive for Java engineers on distributed ACLs.",
+    "tags": [
+      "Distributed Systems",
+      "Java",
+      "Security",
+      "Zanzibar"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-17"
+  },
+  {
     "slug": "mechanical-sympathy-why-your-high-throughput-java-systems-should-stop-fighting-t",
     "title": "Mechanical Sympathy: Why Your High-Throughput Java Systems Should Stop Fighting the Disk",
     "description": "Learn why the append-only log outperforms complex memory indexes. We explore the architectural shift at LinkedIn that led to Kafka and how to leverage zero-copy in Java.",
