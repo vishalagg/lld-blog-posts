@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-instanceof-using-pattern-matching-to-build-exhaustive-domain-models",
+    "title": "Beyond Instanceof: Using Pattern Matching to Build Exhaustive Domain Models",
+    "description": "Stop relying on fragile if-else chains. Learn how JEP 441 transforms the Java switch into a powerful tool for domain modeling and compile-time safety.",
+    "tags": [
+      "Java",
+      "Backend",
+      "Software Architecture",
+      "Clean Code"
+    ],
+    "readTime": "12 min",
+    "publishedAt": "2026-05-18"
+  },
+  {
     "slug": "solving-the-new-enemy-problem-causal-consistency-in-distributed-authorization",
     "title": "Solving the 'New Enemy' Problem: Causal Consistency in Distributed Authorization",
     "description": "Learn how to prevent security leaks caused by replication lag using Zanzibar's consistency markers. A deep dive for Java engineers on distributed ACLs.",
