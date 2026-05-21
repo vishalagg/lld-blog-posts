@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-shallow-immutability-why-your-java-record-validation-is-leaking-in-produc",
+    "title": "Beyond Shallow Immutability: Why Your Java Record Validation Is Leaking in Production",
+    "description": "Learn how shallow immutability in Java Records can silently bypass your constructor validation rules. We explore JEP 395 design constraints, analyze compiler mechanics, and show how to secure your domain invariants.",
+    "tags": [
+      "Java",
+      "Software Architecture",
+      "JVM",
+      "Backend Development"
+    ],
+    "readTime": "6 min",
+    "publishedAt": "2026-05-21"
+  },
+  {
     "slug": "beyond-ttls-solving-the-cache-db-inconsistency-race-with-mutation-tokens",
     "title": "Beyond TTLs: Solving the Cache-DB Inconsistency Race with Mutation Tokens",
     "description": "Learn how to eliminate stale cache overrides under high concurrency using mutation tokens and optimistic versioning in Java, inspired by Meta's TAO cache consistency architecture.",
