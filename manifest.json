@@ -1,5 +1,18 @@
 [
   {
+    "slug": "separating-topology-from-logic-designing-partition-aware-distributed-apis-in-jav",
+    "title": "Separating Topology from Logic: Designing Partition-Aware Distributed APIs in Java",
+    "description": "Learn how the core architectural insight of Google's MapReduce paper applies to modern Java systems. Discover how restricting your programming model enables automatic data locality and lock-free execution.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "Concurrency",
+      "Software Architecture"
+    ],
+    "readTime": "7 min",
+    "publishedAt": "2026-05-22"
+  },
+  {
     "slug": "beyond-shallow-immutability-why-your-java-record-validation-is-leaking-in-produc",
     "title": "Beyond Shallow Immutability: Why Your Java Record Validation Is Leaking in Production",
     "description": "Learn how shallow immutability in Java Records can silently bypass your constructor validation rules. We explore JEP 395 design constraints, analyze compiler mechanics, and show how to secure your domain invariants.",
