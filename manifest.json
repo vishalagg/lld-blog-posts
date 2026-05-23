@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-threadlocal-mastering-scoped-values-for-virtual-thread-architectures",
+    "title": "Beyond ThreadLocal: Mastering Scoped Values for Virtual Thread Architectures",
+    "description": "Discover why traditional ThreadLocal variables fail in virtual-thread-heavy production environments and how JEP 446's Scoped Values resolve memory leaks and mutability risks.",
+    "tags": [
+      "Java",
+      "Concurrency",
+      "JVM",
+      "Virtual Threads"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-05-23"
+  },
+  {
     "slug": "separating-topology-from-logic-designing-partition-aware-distributed-apis-in-jav",
     "title": "Separating Topology from Logic: Designing Partition-Aware Distributed APIs in Java",
     "description": "Learn how the core architectural insight of Google's MapReduce paper applies to modern Java systems. Discover how restricting your programming model enables automatic data locality and lock-free execution.",
