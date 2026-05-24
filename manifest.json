@@ -1,5 +1,18 @@
 [
   {
+    "slug": "solving-the-stale-cache-race-implementing-versioned-invalidations-in-java",
+    "title": "Solving the Stale Cache Race: Implementing Versioned Invalidations in Java",
+    "description": "Stop struggling with flaky read-after-write cache anomalies. Learn how to implement a version-aware cache invalidation pattern in Java to guarantee consistency under high concurrency.",
+    "tags": [
+      "Java",
+      "Caching",
+      "Concurrency",
+      "System Design"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-05-24"
+  },
+  {
     "slug": "beyond-threadlocal-mastering-scoped-values-for-virtual-thread-architectures",
     "title": "Beyond ThreadLocal: Mastering Scoped Values for Virtual Thread Architectures",
     "description": "Discover why traditional ThreadLocal variables fail in virtual-thread-heavy production environments and how JEP 446's Scoped Values resolve memory leaks and mutability risks.",
