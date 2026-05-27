@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-ntp-why-your-distributed-transactions-need-time-uncertainty-intervals",
+    "title": "Beyond NTP: Why Your Distributed Transactions Need Time Uncertainty Intervals",
+    "description": "Learn how Google Spanner uses TrueTime uncertainty intervals to guarantee external consistency, and how to model time uncertainty in your own Java-based distributed systems.",
+    "tags": [
+      "Distributed Systems",
+      "Java",
+      "Database Architecture",
+      "Concurrency"
+    ],
+    "readTime": "7 min",
+    "publishedAt": "2026-05-27"
+  },
+  {
     "slug": "ditching-distributed-locks-designing-coordination-free-state-with-crdts-in-java",
     "title": "Ditching Distributed Locks: Designing Coordination-Free State with CRDTs in Java",
     "description": "Learn how to eliminate database lock contention and network latency bottlenecks under high write load. This guide walks you through building a coordination-free PN-Counter in Java 17.",
