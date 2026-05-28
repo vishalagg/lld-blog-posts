@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-unique-constraints-handling-concurrent-idempotency-in-distributed-java-sy",
+    "title": "Beyond Unique Constraints: Handling Concurrent Idempotency in Distributed Java Systems",
+    "description": "Learn how to build a production-grade idempotency layer in Java. Stop relying on simple database constraints and master atomic state transitions, lease times, and concurrent retry patterns.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "Database",
+      "System Design"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-05-28"
+  },
+  {
     "slug": "beyond-ntp-why-your-distributed-transactions-need-time-uncertainty-intervals",
     "title": "Beyond NTP: Why Your Distributed Transactions Need Time Uncertainty Intervals",
     "description": "Learn how Google Spanner uses TrueTime uncertainty intervals to guarantee external consistency, and how to model time uncertainty in your own Java-based distributed systems.",
