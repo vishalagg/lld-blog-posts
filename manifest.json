@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-distributed-locks-eliminating-contention-with-thread-confinement",
+    "title": "Beyond Distributed Locks: Eliminating Contention with Thread Confinement",
+    "description": "Learn how to eliminate distributed lock contention in high-throughput Java systems using thread confinement and localized request routing, inspired by Uber's dispatch architecture.",
+    "tags": [
+      "Java",
+      "Concurrency",
+      "Distributed Systems",
+      "Performance Tuning"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-06-03"
+  },
+  {
     "slug": "beyond-unique-constraints-handling-concurrent-idempotency-in-distributed-java-sy",
     "title": "Beyond Unique Constraints: Handling Concurrent Idempotency in Distributed Java Systems",
     "description": "Learn how to build a production-grade idempotency layer in Java. Stop relying on simple database constraints and master atomic state transitions, lease times, and concurrent retry patterns.",
