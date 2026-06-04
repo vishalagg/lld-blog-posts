@@ -1,5 +1,18 @@
 [
   {
+    "slug": "why-your-thread-pools-need-codel-taming-tail-latency-under-io-spikes",
+    "title": "Why Your Thread Pools Need CoDel: Taming Tail Latency Under I/O Spikes",
+    "description": "Learn how to prevent slow downstream dependencies from saturating your Java thread pools. We adapt queue-management lessons from Dropbox's Magic Pocket to build a latency-aware executor.",
+    "tags": [
+      "Java",
+      "Concurrency",
+      "Performance",
+      "System Design"
+    ],
+    "readTime": "6 min",
+    "publishedAt": "2026-06-04"
+  },
+  {
     "slug": "beyond-distributed-locks-eliminating-contention-with-thread-confinement",
     "title": "Beyond Distributed Locks: Eliminating Contention with Thread Confinement",
     "description": "Learn how to eliminate distributed lock contention in high-throughput Java systems using thread confinement and localized request routing, inspired by Uber's dispatch architecture.",
