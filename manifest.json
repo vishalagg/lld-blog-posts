@@ -1,5 +1,18 @@
 [
   {
+    "slug": "scaling-collaborative-sync-ditching-locks-for-cloudkit-style-sync-tokens",
+    "title": "Scaling Collaborative Sync: Ditching Locks for CloudKit-Style Sync Tokens",
+    "description": "Learn how to build a high-throughput, conflict-free sync engine using optimistic concurrency control and logical sequence tokens, inspired by Apple's CloudKit architecture.",
+    "tags": [
+      "Java",
+      "System Design",
+      "Concurrency",
+      "Distributed Systems"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-06-05"
+  },
+  {
     "slug": "why-your-thread-pools-need-codel-taming-tail-latency-under-io-spikes",
     "title": "Why Your Thread Pools Need CoDel: Taming Tail Latency Under I/O Spikes",
     "description": "Learn how to prevent slow downstream dependencies from saturating your Java thread pools. We adapt queue-management lessons from Dropbox's Magic Pocket to build a latency-aware executor.",
