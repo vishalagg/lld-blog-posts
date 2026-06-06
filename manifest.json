@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-redis-locks-high-throughput-rate-limiting-with-lock-free-java-token-bucke",
+    "title": "Beyond Redis Locks: High-Throughput Rate Limiting with Lock-Free Java Token Buckets",
+    "description": "Learn how to build a high-performance, lock-free local rate limiter in Java 17+ using atomic state transitions, inspired by Uber's distributed rate limiting architecture.",
+    "tags": [
+      "Java",
+      "Concurrency",
+      "System Design",
+      "Rate Limiting"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-06-06"
+  },
+  {
     "slug": "scaling-collaborative-sync-ditching-locks-for-cloudkit-style-sync-tokens",
     "title": "Scaling Collaborative Sync: Ditching Locks for CloudKit-Style Sync Tokens",
     "description": "Learn how to build a high-throughput, conflict-free sync engine using optimistic concurrency control and logical sequence tokens, inspired by Apple's CloudKit architecture.",
