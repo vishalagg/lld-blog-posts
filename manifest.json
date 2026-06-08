@@ -1,5 +1,18 @@
 [
   {
+    "slug": "the-silent-carrier-thread-starvation-why-virtual-threads-pin-on-synchronized-blo",
+    "title": "The Silent Carrier Thread Starvation: Why Virtual Threads Pin on Synchronized Blocks",
+    "description": "Learn why migrating to Java's virtual threads can unexpectedly freeze your production system. We explore carrier thread pinning, the synchronized trap, and how to safely refactor your concurrency model.",
+    "tags": [
+      "Java",
+      "Concurrency",
+      "JVM",
+      "Performance"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-06-08"
+  },
+  {
     "slug": "beyond-redis-locks-high-throughput-rate-limiting-with-lock-free-java-token-bucke",
     "title": "Beyond Redis Locks: High-Throughput Rate Limiting with Lock-Free Java Token Buckets",
     "description": "Learn how to build a high-performance, lock-free local rate limiter in Java 17+ using atomic state transitions, inspired by Uber's distributed rate limiting architecture.",
