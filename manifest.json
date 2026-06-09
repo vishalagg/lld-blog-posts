@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-eventual-consistency-managing-cosmos-db-session-tokens-in-distributed-jav",
+    "title": "Beyond Eventual Consistency: Managing Cosmos DB Session Tokens in Distributed Java Microservices",
+    "description": "Discover why load balancers break Cosmos DB's session consistency in Java microservices, and learn how to explicitly propagate session tokens to guarantee read-your-own-writes.",
+    "tags": [
+      "Java",
+      "CosmosDB",
+      "Distributed Systems",
+      "Database Consistency"
+    ],
+    "readTime": "6 min",
+    "publishedAt": "2026-06-09"
+  },
+  {
     "slug": "the-silent-carrier-thread-starvation-why-virtual-threads-pin-on-synchronized-blo",
     "title": "The Silent Carrier Thread Starvation: Why Virtual Threads Pin on Synchronized Blocks",
     "description": "Learn why migrating to Java's virtual threads can unexpectedly freeze your production system. We explore carrier thread pinning, the synchronized trap, and how to safely refactor your concurrency model.",
