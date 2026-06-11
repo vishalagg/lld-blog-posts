@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-eventual-consistency-managing-azure-cosmos-db-session-tokens-across-micro",
+    "title": "Beyond Eventual Consistency: Managing Azure Cosmos DB Session Tokens Across Microservices",
+    "description": "Learn why Azure Cosmos DB's default Session Consistency fails when scaling out microservices, and how to manually propagate session tokens in Java to guarantee read-your-own-writes across instances.",
+    "tags": [
+      "Java",
+      "CosmosDB",
+      "Distributed Systems",
+      "Database"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-06-11"
+  },
+  {
     "slug": "beyond-eventual-consistency-managing-cosmos-db-session-tokens-in-distributed-jav",
     "title": "Beyond Eventual Consistency: Managing Cosmos DB Session Tokens in Distributed Java Microservices",
     "description": "Discover why load balancers break Cosmos DB's session consistency in Java microservices, and learn how to explicitly propagate session tokens to guarantee read-your-own-writes.",
