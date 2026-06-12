@@ -1,5 +1,18 @@
 [
   {
+    "slug": "why-threadpoolexecutorshutdown-is-not-enough-mastering-graceful-connection-drain",
+    "title": "Why ThreadPoolExecutor.shutdown() Is Not Enough: Mastering Graceful Connection Draining in Java",
+    "description": "Learn how to implement zero-downtime deployments in Java. We move beyond basic executor shutdowns to explore how to gracefully drain active TCP and HTTP connections under heavy load.",
+    "tags": [
+      "Java",
+      "Concurrency",
+      "Networking",
+      "System Design"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-06-12"
+  },
+  {
     "slug": "beyond-eventual-consistency-managing-azure-cosmos-db-session-tokens-across-micro",
     "title": "Beyond Eventual Consistency: Managing Azure Cosmos DB Session Tokens Across Microservices",
     "description": "Learn why Azure Cosmos DB's default Session Consistency fails when scaling out microservices, and how to manually propagate session tokens in Java to guarantee read-your-own-writes across instances.",
