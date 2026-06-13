@@ -1,5 +1,18 @@
 [
   {
+    "slug": "bypassing-the-jvm-garbage-collector-why-netflix-abandons-pojos-for-high-throughp",
+    "title": "Bypassing the JVM Garbage Collector: Why Netflix Abandons POJOs for High-Throughput In-Memory Metadata",
+    "description": "Learn how to eliminate garbage collection pauses and slash your Java heap footprint by replacing traditional object-oriented caches with flat, bit-packed primitive arrays.",
+    "tags": [
+      "Java",
+      "JVM",
+      "Garbage Collection",
+      "Performance Engineering"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-06-13"
+  },
+  {
     "slug": "why-threadpoolexecutorshutdown-is-not-enough-mastering-graceful-connection-drain",
     "title": "Why ThreadPoolExecutor.shutdown() Is Not Enough: Mastering Graceful Connection Draining in Java",
     "description": "Learn how to implement zero-downtime deployments in Java. We move beyond basic executor shutdowns to explore how to gracefully drain active TCP and HTTP connections under heavy load.",
