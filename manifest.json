@@ -1,5 +1,18 @@
 [
   {
+    "slug": "the-shallow-immutability-trap-why-your-java-records-arent-safe-in-production",
+    "title": "The Shallow Immutability Trap: Why Your Java Records Aren't Safe in Production",
+    "description": "Java records promise immutability, but shallow copy mechanics can expose your production systems to silent data corruption. Learn how to master JEP 395 validation patterns.",
+    "tags": [
+      "Java",
+      "Backend",
+      "Software Architecture",
+      "JVM"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-06-14"
+  },
+  {
     "slug": "bypassing-the-jvm-garbage-collector-why-netflix-abandons-pojos-for-high-throughp",
     "title": "Bypassing the JVM Garbage Collector: Why Netflix Abandons POJOs for High-Throughput In-Memory Metadata",
     "description": "Learn how to eliminate garbage collection pauses and slash your Java heap footprint by replacing traditional object-oriented caches with flat, bit-packed primitive arrays.",
