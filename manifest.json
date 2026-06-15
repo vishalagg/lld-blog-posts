@@ -1,5 +1,18 @@
 [
   {
+    "slug": "why-graceful-shutdown-in-java-netty-is-harder-than-you-think-demystifying-kernel",
+    "title": "Why Graceful Shutdown in Java Netty is Harder Than You Think: Demystifying Kernel-Level Connection Draining",
+    "description": "Stop dropping connection packets during production rollouts. Learn how the Linux kernel manages TCP backlogs and how to orchestrate a true zero-downtime socket draining sequence in Java Netty.",
+    "tags": [
+      "Java",
+      "Netty",
+      "Networking",
+      "Systems Architecture"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-06-15"
+  },
+  {
     "slug": "the-shallow-immutability-trap-why-your-java-records-arent-safe-in-production",
     "title": "The Shallow Immutability Trap: Why Your Java Records Aren't Safe in Production",
     "description": "Java records promise immutability, but shallow copy mechanics can expose your production systems to silent data corruption. Learn how to master JEP 395 validation patterns.",
