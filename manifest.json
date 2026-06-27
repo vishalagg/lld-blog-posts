@@ -1,5 +1,18 @@
 [
   {
+    "slug": "solving-the-stateless-session-consistency-leak-in-cosmos-db-with-java",
+    "title": "Solving the Stateless Session Consistency Leak in Cosmos DB with Java",
+    "description": "Discover why Cosmos DB's default Session Consistency silently drops to eventual consistency behind a load balancer, and learn how to implement explicit token propagation in Java 17+.",
+    "tags": [
+      "Java",
+      "CosmosDB",
+      "Distributed Systems",
+      "Database"
+    ],
+    "readTime": "7 min",
+    "publishedAt": "2026-06-27"
+  },
+  {
     "slug": "beyond-the-heap-solving-gc-latency-spikes-for-massive-in-memory-caches",
     "title": "Beyond the Heap: Solving GC Latency Spikes for Massive In-Memory Caches",
     "description": "Learn how to design GC-resistant in-memory caches in Java. Inspired by Discord's famous Go-to-Rust migration, we explore how to replace massive object graphs with flat memory layouts.",
