@@ -1,5 +1,18 @@
 [
   {
+    "slug": "solving-the-new-enemy-problem-bounded-staleness-in-distributed-authorization",
+    "title": "Solving the 'New Enemy' Problem: Bounded Staleness in Distributed Authorization",
+    "description": "Learn how to prevent causal consistency bugs in distributed authorization systems. We explore Zanzibar's zookie pattern to build highly consistent, high-performance Java auth engines.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "System Design",
+      "Security"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-06-30"
+  },
+  {
     "slug": "solving-the-stateless-session-consistency-leak-in-cosmos-db-with-java",
     "title": "Solving the Stateless Session Consistency Leak in Cosmos DB with Java",
     "description": "Discover why Cosmos DB's default Session Consistency silently drops to eventual consistency behind a load balancer, and learn how to implement explicit token propagation in Java 17+.",
