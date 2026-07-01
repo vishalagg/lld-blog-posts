@@ -1,5 +1,18 @@
 [
   {
+    "slug": "zero-allocation-event-buffering-architectural-lessons-from-linkedins-databus",
+    "title": "Zero-Allocation Event Buffering: Architectural Lessons from LinkedIn's Databus",
+    "description": "Learn how to eliminate garbage collection bottlenecks in high-throughput Java event pipelines by building a pre-allocated ring buffer, inspired by LinkedIn's Databus architecture.",
+    "tags": [
+      "Java",
+      "Performance",
+      "Garbage Collection",
+      "System Design"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-07-01"
+  },
+  {
     "slug": "solving-the-new-enemy-problem-bounded-staleness-in-distributed-authorization",
     "title": "Solving the 'New Enemy' Problem: Bounded Staleness in Distributed Authorization",
     "description": "Learn how to prevent causal consistency bugs in distributed authorization systems. We explore Zanzibar's zookie pattern to build highly consistent, high-performance Java auth engines.",
