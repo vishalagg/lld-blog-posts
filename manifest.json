@@ -1,5 +1,18 @@
 [
   {
+    "slug": "why-you-cannot-commit-past-term-entries-overcoming-the-subtlest-bug-in-custom-co",
+    "title": "Why You Cannot Commit Past Term Entries: Overcoming the Subtlest Bug in Custom Consensus Engines",
+    "description": "Learn why Raft leaders cannot commit log entries from prior terms simply by counting replicas. Explore the mechanics of the Leader Completeness safety rule with modern Java.",
+    "tags": [
+      "Distributed Systems",
+      "Consensus",
+      "Java",
+      "Raft"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-07-02"
+  },
+  {
     "slug": "zero-allocation-event-buffering-architectural-lessons-from-linkedins-databus",
     "title": "Zero-Allocation Event Buffering: Architectural Lessons from LinkedIn's Databus",
     "description": "Learn how to eliminate garbage collection bottlenecks in high-throughput Java event pipelines by building a pre-allocated ring buffer, inspired by LinkedIn's Databus architecture.",
