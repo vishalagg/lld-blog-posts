@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-the-page-cache-building-high-throughput-block-storage-in-java",
+    "title": "Beyond the Page Cache: Building High-Throughput Block Storage in Java",
+    "description": "Learn how to bypass JVM heap overhead and OS double-buffering using sector-aligned off-heap memory pooling, inspired by the architecture of Dropbox's Magic Pocket.",
+    "tags": [
+      "Java",
+      "Performance",
+      "Storage",
+      "JVM"
+    ],
+    "readTime": "7 min",
+    "publishedAt": "2026-07-03"
+  },
+  {
     "slug": "why-you-cannot-commit-past-term-entries-overcoming-the-subtlest-bug-in-custom-co",
     "title": "Why You Cannot Commit Past Term Entries: Overcoming the Subtlest Bug in Custom Consensus Engines",
     "description": "Learn why Raft leaders cannot commit log entries from prior terms simply by counting replicas. Explore the mechanics of the Leader Completeness safety rule with modern Java.",
