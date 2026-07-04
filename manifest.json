@@ -1,5 +1,18 @@
 [
   {
+    "slug": "handling-clock-drift-in-distributed-systems-the-java-engineers-guide-to-spanners",
+    "title": "Handling Clock Drift in Distributed Systems: The Java Engineer's Guide to Spanner's Commit Wait",
+    "description": "Learn how Google Spanner uses TrueTime and the commit wait pattern to guarantee external consistency, and how to implement clock-drift-aware transaction logic in Java.",
+    "tags": [
+      "Distributed Systems",
+      "Java",
+      "Concurrency",
+      "Database Architecture"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-07-04"
+  },
+  {
     "slug": "beyond-the-page-cache-building-high-throughput-block-storage-in-java",
     "title": "Beyond the Page Cache: Building High-Throughput Block Storage in Java",
     "description": "Learn how to bypass JVM heap overhead and OS double-buffering using sector-aligned off-heap memory pooling, inspired by the architecture of Dropbox's Magic Pocket.",
