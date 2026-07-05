@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-redis-cache-building-a-thread-safe-idempotency-engine-in-java",
+    "title": "Beyond Redis Cache: Building a Thread-Safe Idempotency Engine in Java",
+    "description": "Learn how to build a race-condition-free API idempotency layer in Java. Move past simple cache lookups to a resilient database-backed state machine.",
+    "tags": [
+      "Java",
+      "PostgreSQL",
+      "System Design",
+      "Distributed Systems"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-07-05"
+  },
+  {
     "slug": "handling-clock-drift-in-distributed-systems-the-java-engineers-guide-to-spanners",
     "title": "Handling Clock Drift in Distributed Systems: The Java Engineer's Guide to Spanner's Commit Wait",
     "description": "Learn how Google Spanner uses TrueTime and the commit wait pattern to guarantee external consistency, and how to implement clock-drift-aware transaction logic in Java.",
