@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-systemexit-mastering-tcp-connection-draining-and-graceful-shutdown-in-jav",
+    "title": "Beyond System.exit(): Mastering TCP Connection Draining and Graceful Shutdown in Java",
+    "description": "Discover why your graceful shutdown configurations still drop connections during deployments. We analyze the intersection of JVM shutdown hooks, OS TCP backlogs, and load balancer propagation delays.",
+    "tags": [
+      "Java",
+      "Networking",
+      "Kubernetes",
+      "Performance"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-07-07"
+  },
+  {
     "slug": "beyond-redis-cache-building-a-thread-safe-idempotency-engine-in-java",
     "title": "Beyond Redis Cache: Building a Thread-Safe Idempotency Engine in Java",
     "description": "Learn how to build a race-condition-free API idempotency layer in Java. Move past simple cache lookups to a resilient database-backed state machine.",
