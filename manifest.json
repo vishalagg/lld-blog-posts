@@ -1,5 +1,18 @@
 [
   {
+    "slug": "the-silent-killer-of-gc-performance-why-large-object-graphs-truncate-your-throug",
+    "title": "The Silent Killer of GC Performance: Why Large Object Graphs Truncate Your Throughput",
+    "description": "Learn how massive in-memory caches trigger severe garbage collection latency spikes in Java, and discover how to design GC-friendly, flat data layouts to keep pauses under a millisecond.",
+    "tags": [
+      "Java",
+      "Garbage Collection",
+      "Performance",
+      "System Design"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-07-11"
+  },
+  {
     "slug": "beyond-ttl-solving-cache-invalidation-races-in-distributed-systems",
     "title": "Beyond TTL: Solving Cache Invalidation Races in Distributed Systems",
     "description": "Learn how to eliminate silent cache corruption caused by read-after-write race conditions, drawing on lessons from Facebook's TAO paper.",
