@@ -1,5 +1,18 @@
 [
   {
+    "slug": "why-your-high-throughput-storage-engine-is-thrashing-the-cost-of-metadata-disk-s",
+    "title": "Why Your High-Throughput Storage Engine is Thrashing: The Cost of Metadata Disk Seeks",
+    "description": "Learn how Facebook's Haystack architecture solves the disk seek bottleneck. Discover how to design compact, memory-efficient indices in Java to bypass OS filesystem metadata overhead.",
+    "tags": [
+      "Java",
+      "System Design",
+      "Performance",
+      "Storage Engines"
+    ],
+    "readTime": "7 min",
+    "publishedAt": "2026-07-12"
+  },
+  {
     "slug": "the-silent-killer-of-gc-performance-why-large-object-graphs-truncate-your-throug",
     "title": "The Silent Killer of GC Performance: Why Large Object Graphs Truncate Your Throughput",
     "description": "Learn how massive in-memory caches trigger severe garbage collection latency spikes in Java, and discover how to design GC-friendly, flat data layouts to keep pauses under a millisecond.",
