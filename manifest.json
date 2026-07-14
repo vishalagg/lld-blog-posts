@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-inputstream-how-zero-copy-and-page-cache-integration-eliminate-jvm-garbag",
+    "title": "Beyond InputStream: How Zero-Copy and Page Cache Integration Eliminate JVM Garbage Collection Bottlenecks under Heavy I/O",
+    "description": "Learn how to bypass the JVM heap for high-throughput I/O. We explore the mechanics of zero-copy transfers and kernel page cache utilization inspired by the original Kafka design.",
+    "tags": [
+      "Java",
+      "NIO",
+      "Performance Tuning",
+      "Kafka"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-07-14"
+  },
+  {
     "slug": "why-your-high-throughput-storage-engine-is-thrashing-the-cost-of-metadata-disk-s",
     "title": "Why Your High-Throughput Storage Engine is Thrashing: The Cost of Metadata Disk Seeks",
     "description": "Learn how Facebook's Haystack architecture solves the disk seek bottleneck. Discover how to design compact, memory-efficient indices in Java to bypass OS filesystem metadata overhead.",
