@@ -1,5 +1,18 @@
 [
   {
+    "slug": "beyond-the-unique-constraint-handling-the-in-flight-race-condition-in-api-idempo",
+    "title": "Beyond the Unique Constraint: Handling the In-Flight Race Condition in API Idempotency",
+    "description": "Learn how to build a concurrent-safe idempotency layer in Java. We move past simple database checks to solve the 'in-flight' race condition using atomic state transitions and lease patterns.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "Concurrency",
+      "System Design"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-07-15"
+  },
+  {
     "slug": "beyond-inputstream-how-zero-copy-and-page-cache-integration-eliminate-jvm-garbag",
     "title": "Beyond InputStream: How Zero-Copy and Page Cache Integration Eliminate JVM Garbage Collection Bottlenecks under Heavy I/O",
     "description": "Learn how to bypass the JVM heap for high-throughput I/O. We explore the mechanics of zero-copy transfers and kernel page cache utilization inspired by the original Kafka design.",
