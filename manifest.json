@@ -1,5 +1,18 @@
 [
   {
+    "slug": "scaling-rate-limiters-beyond-redis-designing-an-asynchronous-token-lease-engine-",
+    "title": "Scaling Rate Limiters Beyond Redis: Designing an Asynchronous Token-Lease Engine in Java",
+    "description": "Learn how to build high-throughput distributed rate limiters that avoid the Redis bottleneck. We explore Uber's token-leasing strategy using non-blocking Java concurrency.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "Concurrency",
+      "System Design"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-07-16"
+  },
+  {
     "slug": "beyond-the-unique-constraint-handling-the-in-flight-race-condition-in-api-idempo",
     "title": "Beyond the Unique Constraint: Handling the In-Flight Race Condition in API Idempotency",
     "description": "Learn how to build a concurrent-safe idempotency layer in Java. We move past simple database checks to solve the 'in-flight' race condition using atomic state transitions and lease patterns.",
