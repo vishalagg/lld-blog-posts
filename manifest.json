@@ -1,5 +1,18 @@
 [
   {
+    "slug": "why-majority-replication-doesnt-equal-safety-rafts-hidden-commit-rule",
+    "title": "Why Majority Replication Doesn't Equal Safety: Raft's Hidden Commit Rule",
+    "description": "Discover why replicating a log entry to a majority of nodes doesn't guarantee its safety in Raft. Learn the mechanics of Section 5.4.2 to prevent data loss in custom consensus implementations.",
+    "tags": [
+      "Distributed Systems",
+      "Raft",
+      "Java",
+      "Concurrency"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-07-17"
+  },
+  {
     "slug": "scaling-rate-limiters-beyond-redis-designing-an-asynchronous-token-lease-engine-",
     "title": "Scaling Rate Limiters Beyond Redis: Designing an Asynchronous Token-Lease Engine in Java",
     "description": "Learn how to build high-throughput distributed rate limiters that avoid the Redis bottleneck. We explore Uber's token-leasing strategy using non-blocking Java concurrency.",
