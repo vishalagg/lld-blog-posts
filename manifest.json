@@ -1,5 +1,18 @@
 [
   {
+    "slug": "designing-resilient-transaction-retry-pipelines-lessons-from-apples-cloudkit",
+    "title": "Designing Resilient Transaction Retry Pipelines: Lessons from Apple's CloudKit",
+    "description": "Learn how to design non-blocking, jittered transaction retry loops in Java to survive high write contention, inspired by Apple's FoundationDB Record Layer architecture.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "Database Design",
+      "Concurrency"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-07-18"
+  },
+  {
     "slug": "why-majority-replication-doesnt-equal-safety-rafts-hidden-commit-rule",
     "title": "Why Majority Replication Doesn't Equal Safety: Raft's Hidden Commit Rule",
     "description": "Discover why replicating a log entry to a majority of nodes doesn't guarantee its safety in Raft. Learn the mechanics of Section 5.4.2 to prevent data loss in custom consensus implementations.",
