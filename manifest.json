@@ -1,5 +1,19 @@
 [
   {
+    "slug": "demystifying-the-column-family-why-your-nosql-database-is-not-actually-a-columna",
+    "title": "Demystifying the Column-Family: Why Your NoSQL Database Is Not Actually a Columnar Database",
+    "description": "Learn how the physical storage model of Google Bigtable influences write amplification and disk I/O in HBase and Cassandra, and how to design schemas that avoid production compaction bottlenecks.",
+    "tags": [
+      "NoSQL",
+      "Database Design",
+      "Java",
+      "HBase",
+      "System Design"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-07-19"
+  },
+  {
     "slug": "designing-resilient-transaction-retry-pipelines-lessons-from-apples-cloudkit",
     "title": "Designing Resilient Transaction Retry Pipelines: Lessons from Apple's CloudKit",
     "description": "Learn how to design non-blocking, jittered transaction retry loops in Java to survive high write contention, inspired by Apple's FoundationDB Record Layer architecture.",
