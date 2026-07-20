@@ -1,5 +1,18 @@
 [
   {
+    "slug": "designing-idempotency-for-in-flight-retries-handling-the-race-conditions-we-usua",
+    "title": "Designing Idempotency for In-Flight Retries: Handling the Race Conditions We Usually Ignore",
+    "description": "Learn how to handle the trickiest edge case in API idempotency: when a retried request arrives while the original is still processing. We walk through a thread-safe Java implementation.",
+    "tags": [
+      "Java",
+      "Distributed Systems",
+      "API Design",
+      "Concurrency"
+    ],
+    "readTime": "8 min",
+    "publishedAt": "2026-07-20"
+  },
+  {
     "slug": "demystifying-the-column-family-why-your-nosql-database-is-not-actually-a-columna",
     "title": "Demystifying the Column-Family: Why Your NoSQL Database Is Not Actually a Columnar Database",
     "description": "Learn how the physical storage model of Google Bigtable influences write amplification and disk I/O in HBase and Cassandra, and how to design schemas that avoid production compaction bottlenecks.",
